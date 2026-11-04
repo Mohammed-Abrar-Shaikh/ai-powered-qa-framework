@@ -1,0 +1,23 @@
+{
+  "name": "qa-sdet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed-Abrar-Shaikh/ai-powered-qa-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mohammed-Abrar-Shaikh/ai-powered-qa-framework/issues"
+  },
+  "homepage": "https://github.com/Mohammed-Abrar-Shaikh/ai-powered-qa-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
